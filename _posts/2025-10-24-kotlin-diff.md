@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "코틀린 언어를 공부하며: 주요 차이점과 코틀린의 장점"
-date: 2025-10-28 13:21 +0900
+date: 2025-10-24 13:21 +0900
 description: 자바와 코틀린의 주요 차이점과 장점
 category: Programming
 tags: [Java, Kotlin, Programming]
